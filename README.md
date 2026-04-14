@@ -27,20 +27,6 @@ This project is a machine learning-based system designed to detect fraudulent ac
 
 ---
 
-## Project Structure
-
-```
-project-folder/
-│
-├── train_dataset.csv
-├── train_model.py
-├── app.py
-├── model.pkl
-└── README.md
-```
-
----
-
 ## How to Run
 
 ### Install dependencies
