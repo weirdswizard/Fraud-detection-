@@ -6,6 +6,18 @@ This project is a machine learning-based system designed to detect fraudulent ac
 
 ---
 
+## Features
+
+* Fraud detection using machine learning on applicant data
+* Identification of potential future fraud users based on prediction probability
+* Behavior-based analysis using features such as income, claimed amount, and application patterns
+* Classification into three categories: Fraud, High Risk, and Normal
+* Interactive web interface for uploading data and viewing results
+* Expandable sections for detailed analysis
+* Color-coded risk visualization for quick interpretation
+
+---
+
 ## Tech Stack
 
 * Python
